@@ -5,3 +5,4 @@ streamlit
 gtts
 speechrecognition
 pyaudio
+vosk
