@@ -6,3 +6,4 @@ gtts
 speechrecognition
 pyaudio
 vosk
+llama-cpp-python
